@@ -1,7 +1,7 @@
 import { LinkButton } from "@/components/ui/link-button";
 import { FileText, Mail, Instagram, Music } from "lucide-react";
 import { useNavigate } from "react-router-dom";
-import profilePhoto from "@/assets/profile-photo.jpg";
+import profilePhoto from "@/assets/imagem_social.jpg";
 
 const Index = () => {
   const navigate = useNavigate();

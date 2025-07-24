@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ArrowLeft, Mail, Phone, MapPin, Calendar, ExternalLink } from "lucide-react";
 import { useNavigate } from "react-router-dom";
-import profilePhoto from "@/assets/profile-photo.jpg";
+import profilePhoto from "@/assets/imagem_social.jpg";
 
 const Curriculum = () => {
   const navigate = useNavigate();
