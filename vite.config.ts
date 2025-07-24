@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 
 export default defineConfig(({ mode }) => ({
-  base: "/My-LinkTree/", 
+  base: "/My-LinkTree", 
   server: {
     host: "::",
     port: 8080,
